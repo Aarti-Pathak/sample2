@@ -186,7 +186,7 @@
             <id>mulesoft-release</id>
             <name>mulesoft release repository</name>
             <layout>default</layout>
-            <url>http://repository.mulesoft.org/releases/</url>
+            <url>http://dml.bpweb.bp.com:8088/artifactory/mulesoft-virtual</url>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
