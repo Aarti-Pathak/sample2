@@ -202,5 +202,11 @@
             </snapshots>
         </pluginRepository>
     </pluginRepositories>
-
+ <distributionManagement>
+    <repository>
+        <id>mycloudhub</id>
+        <name>Cloud Hub</name>
+        <url>https://anypoint.mulesoft.com/cloudhub/</url>
+    </repository>
+ </distributionManagement>
 </project>
